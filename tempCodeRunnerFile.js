@@ -1,0 +1,1 @@
+class="object-cover h-40 w-full"
